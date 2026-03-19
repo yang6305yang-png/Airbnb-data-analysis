@@ -19,4 +19,4 @@ This project focuses on performing exploratory data analysis (EDA) on Airbnb lis
 - Manhattan had the highest number of listings (40k+)
 
 ## 🚀 Author
-Yang
+Jeevan
